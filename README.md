@@ -1,4 +1,4 @@
-![image](https://github.com/victorlavadoalva/victorlavadoalva/assets/26192430/33b55c08-7821-4ef2-9b9b-f2a2e94c0442)<h1 align="center">Hi 👋, I'm Victor Lavado</h1>
+<h1 align="center">Hi 👋, I'm Victor Lavado</h1>
 <p align="center">
   <a href="https://github.com/victorlavadoalva">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=Fullstack+developer;Mobile+applications+and+Web+applications" /></a>
