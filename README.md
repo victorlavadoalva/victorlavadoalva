@@ -1,63 +1,73 @@
-### Hola a todos!, me llamo Victor 👋. [![Descripción de la imagen](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg)](#)
-
-
-<br/>
-<a href="https://www.linkedin.com/in/victor-lavado/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<br />
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt1d3Nuc21oN2Exdnp4YzFnYjNmNm15cXM5bTJiMWZpM3Y1OHoydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-
-### 🙋‍♂️,
-### Soy un programador fullstack de Perú :peru: .
-
-
-#### -  Aprendiendo Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
-
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-<br />
-
-
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=victorlavadoalva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br />
-
-*************
-
-<br />
-
-### - Languages and Tools...
-
+![image](https://github.com/victorlavadoalva/victorlavadoalva/assets/26192430/33b55c08-7821-4ef2-9b9b-f2a2e94c0442)<h1 align="center">Hi 👋, I'm Victor Lavado</h1>
 <p align="center">
- <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-
+  <a href="https://github.com/victorlavadoalva">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=Fullstack+developer;Mobile+applications+and+Web+applications" /></a>
+</p>
+<img width="250" align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=victorlavadoalva&label=Profile%20views&color=0e75b6&style=flat" alt="victorlavadoalva" />
 </p>
 
+- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org) 
+- 💬 Ask me about **JavaScript**, **ReactJS**, **Wordpress**, **GitHub** and **WebDevelopment**
+- 📫 How to reach me: [Email me](mailto::victorlavado15@gmail.com) or [Text me](https://wa.me/51958940236)
 
-***********************************
 
-#### Gracias!-🙏🏼
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
+<a href="https://www.linkedin.com/in/victor-lavado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victor Lavado" height="40" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+  
+<p align="left">
+<a href="https://javascript.cm/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Javascript-736400_960_720.png/640px-Javascript-736400_960_720.png" alt="JavaScript" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+  <a href="https://learn.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" width="40" height="40"/>
+</a>
+<a href="nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/640px-Node.js_logo_2015.svg.png" alt="Node.js" width="140" height="40"/>
+</a>
+<a href="react.dev/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="React" width="45" height="40"/>
+</a>
+  
+<h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/victorlavadoalva">
+      <img alt="Victor Lavado's Streak" src="https://streak-stats.demolab.com?user=victorlavadoalva&theme=dark"/>
+    </a>
+  </p>
+  
+<h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/victorlavadoalva">
+  <img alt="Victor Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=victorlavadoalva&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a><a href="https://github.com/victorlavadoalva">
+  <img alt="Victor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=victorlavadoalva&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
+  <br/>
+  
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
