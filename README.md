@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=victorlavadoalva&label=Profile%20views&color=0e75b6&style=flat" alt="victorlavadoalva" />
 </p>
 
-- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org) 
+- 🌱 I’m currently learning [Java](https://docs.oracle.com/en/java/) 
 - 💬 Ask me about **JavaScript**, **ReactJS**, **Wordpress**, **GitHub** and **WebDevelopment**
 - 📫 How to reach me: [Email me](mailto::victorlavado15@gmail.com) or [Text me](https://wa.me/51958940236)
 
